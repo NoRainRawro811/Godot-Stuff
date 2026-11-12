@@ -223,9 +223,8 @@ script = SubResource("GDScript_v0iea")
 z_index = 5
 position = Vector2(0, -12)
 sprite_frames = SubResource("SpriteFrames_y3va0")
-animation = &"jump"
+animation = &"idle"
 autoplay = "idle"
-frame_progress = 0.15184642
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1796558640]
 position = Vector2(0, -6)
